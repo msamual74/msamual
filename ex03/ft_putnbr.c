@@ -8,7 +8,6 @@ void	ft_putchar(char c)
 
 void	ft_putnbr(int nb)
 {
-	int		neg;
 	unsigned int	n;
 
 	if (nb < 0)
